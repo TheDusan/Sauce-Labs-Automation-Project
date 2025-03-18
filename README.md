@@ -1,4 +1,4 @@
-# Final Project for Software Tester (QA) Training Program
+# Final Project for Software Tester (QA) IT Bootcamp program
 
 As part of the IT Bootcamp School in Belgrade, Serbia (August–October 2024), this final project focused on manual and automated testing of the e-commerce platform [**www.saucedemo.com**](https://www.saucedemo.com). The project included creating detailed bug reports, ensuring comprehensive coverage of website functionality, and identifying potential issues.
 
